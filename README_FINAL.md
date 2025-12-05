@@ -62,6 +62,12 @@ Install required libraries:
 ```
 pip install numpy pandas scikit-learn imbalanced-learn xgboost matplotlib seaborn joblib
 ```
+## Project Structure
+CreditCard_FraudDetection/
+│
+├── credit(2).ipynb                   # Main notebook
+├── creditcard.csv                    # Dataset (download separately)
+└── README.md                         # Project documentation
 
 ## Future Improvements
 - Hyperparameter tuning  
@@ -71,7 +77,4 @@ pip install numpy pandas scikit-learn imbalanced-learn xgboost matplotlib seabor
 - Real-time fraud detection API  
 - Deployment with Flask/FastAPI  
 
-## Author
-Dhruti Aravind  
-BTech CSE (Cyber Security)  
-Manipal Institute of Technology, Bengaluru
+
