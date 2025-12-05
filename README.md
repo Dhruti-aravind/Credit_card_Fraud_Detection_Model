@@ -63,6 +63,7 @@ Install required libraries:
 pip install numpy pandas scikit-learn imbalanced-learn xgboost matplotlib seaborn joblib
 ```
 ## Project Structure
+
 CreditCard_FraudDetection/
 │
 ├── credit_card_fraud_detection.ipynb # Main notebook
