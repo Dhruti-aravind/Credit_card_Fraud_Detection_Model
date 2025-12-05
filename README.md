@@ -70,7 +70,7 @@ Model: Logistic Regression
 
 Test Accuracy: 92.89 percent
 
-Poor recall → many fraud cases missed
+Low recall → many fraud cases missed
 
 Improved Final Model
 
@@ -82,7 +82,7 @@ Strong recall and F1-score
 
 High ROC-AUC and PR-AUC
 
-Far more reliable for real-world fraud detection
+Significantly more reliable for real-world fraud detection
 
 Dataset
 
