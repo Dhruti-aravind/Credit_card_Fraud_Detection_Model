@@ -65,9 +65,9 @@ pip install numpy pandas scikit-learn imbalanced-learn xgboost matplotlib seabor
 ## Project Structure
 CreditCard_FraudDetection/
 │
-├── credit(2).ipynb                   # Main notebook
-├── creditcard.csv                    # Dataset (download separately)
-└── README.md                         # Project documentation
+├── credit_card_fraud_detection.ipynb # Main notebook
+├── creditcard.csv # Dataset (download separately, not stored in repo)
+└── README.md # Project documentation
 
 ## Future Improvements
 - Hyperparameter tuning  
